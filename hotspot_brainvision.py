@@ -10,8 +10,10 @@ Dependencies
 python vers 2.x
 numpy, matplotlib - available separately or (recommended) from Anaconda Python 
                     distribution
-PySide - could probably be adapted to use pyqt (also in Anaconda)
-       - get in touch if you need help to do this, or if you add this feature,
+PySide - installation instructions are here:
+         http://pyside.readthedocs.io/en/latest/installing/windows.html
+       - could probably be adapted to use pyqt (also in Anaconda)
+         get in touch if you need help to do this, or if you add this feature,
          please submit back to the github repo
 libRDA - from BrainVision
 
